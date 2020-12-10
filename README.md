@@ -1,5 +1,5 @@
 
-Import/Export transactions in CSV format.
+Import transactions in TXT format from Alterdata Software.
 
 ![Context menu](https://storage.googleapis.com/bkper-public/images/export-csv-app.png)
 
